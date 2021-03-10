@@ -1,0 +1,410 @@
+
+.dse-order-details-wrapper {
+    margin: 0;
+}
+
+.dse-order-details-wrapper table {
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.dse-order-details-wrapper table th {
+    text-align: left;
+    padding: 1em;
+    font-weight: 400;
+    color: #999999;
+    background: #F8F8F8;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.dse-order-details-wrapper table td {
+    padding: 1.5em 1em 1em;
+    text-align: left;
+    line-height: 1.5em;
+    vertical-align: top;
+    border-bottom: 1px solid #F8F8F8;
+}
+
+.dse-order-details-wrapper table .dse-order-thumb {
+    text-align: left;
+    width: 38px;
+    padding-bottom: 1.5em;
+    padding-left: 2em;
+}
+
+.dse-order-details-wrapper table .dse-order-thumb div {
+    width: 38px;
+    height: 38px;
+    border: 2px solid #E8E8E8;
+    background: #F8F8F8;
+    color: #CCCCCC;
+    position: relative;
+    font-size: 21px;
+    display: block;
+    text-align: center;
+}
+
+.dse-order-details-wrapper tr.dse-order-item {
+    min-width: 200px;
+}
+
+.dse-order-details-wrapper table tbody tr:first-child td {
+    border-top: none;
+}
+
+.dse-order-details-wrapper table .dse-order-thumb div img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.dse-order-details-wrapper table .dse-order-retailer div,
+.dse-order-details-wrapper table .dse-order-status div {
+    white-space: nowrap;
+}
+
+.dse-order-details-wrapper table td.dse-order-title .dse-order-sku,
+.dse-order-details-wrapper table td.dse-order-title .dse-order-tracking-id {
+    display: block;
+    margin-top: .5em;
+    font-size: .92em !important;
+    color: #888888;
+}
+
+.dse-free-register {
+    margin-left: 20px
+}
+
+.adge-badge-pro {
+    margin-left: 10px;
+}
+
+.dse-pricing {
+    padding-bottom: 4rem;
+}
+
+.dse-pricing .dse-pricing-top {
+    background-color: #5578EB;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-header-top .dse-pricing-title-top {
+    padding-top: 5rem;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-header-top .dse-pricing-title-top > h1 {
+    font-size: 2.3rem;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top {
+    margin-left: 14.3rem;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    box-shadow: 0 -1.3rem 1.07rem 0.71rem #0000000D;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top {
+    display: table-cell;
+    text-align: center;
+    border-right: 1px solid #E1F1FF;
+    background-color: white;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top:last-child {
+    border-right: none;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-icon > i {
+    font-size: 5rem;
+    margin-top: 3.6rem;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-sub {
+    font-size: 1.64rem;
+    color: #595D6E;
+    margin-top: 2.14rem;
+    font-weight: 500;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-features {
+    font-size: 1rem;
+    margin-top: 2.14rem;
+    font-weight: 400;
+    margin-bottom: 1.43rem;
+    padding: 0 0.71rem 0 0.71rem;
+    color: #74788D;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-price {
+    font-size: 3.2rem;
+    color: #595D6E;
+    font-weight: 700;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-label {
+    font-size: 1.64rem;
+    vertical-align: 43%;
+    color: #74788D;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-button {
+    margin-top: 1.43rem;
+    margin-bottom: 3.6rem;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-button .btn {
+    padding: 0.8rem 3.6rem 0.8rem 3.6rem;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile {
+    display: none;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile {
+    color: #74788D;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile > span:first-child {
+    color: #595D6E;
+}
+
+.dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile:nth-child(odd) {
+    background-color: #FAFBFF;
+}
+
+.dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed .dse-pricing-items-bottom {
+    display: table;
+    width: 100%;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed .dse-pricing-items-bottom .dse-pricing-item-bottom {
+    display: table-cell;
+    padding: 1.43rem 0;
+    font-weight: 700;
+    color: #74788D;
+}
+
+.dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed .dse-pricing-items-bottom .dse-pricing-item-bottom:first-child {
+    width: 14.3rem;
+    text-align: left;
+    padding-left: 1.43rem;
+    font-weight: 700;
+    color: #696B84;
+}
+
+.dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed .dse-pricing-items-bottom:nth-child(odd) {
+    background-color: #FAFBFF;
+}
+
+@media (min-width: 1025px) and (max-width: 1399px) {
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top {
+        margin-left: 14.3rem;
+    }
+
+    .dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .dse-pricing .dse-pricing-top {
+        background: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-header-top {
+        background-color: #5578EB;
+        padding-bottom: 21.43rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top {
+        width: 80%;
+        margin: 0 auto;
+        margin-top: -21.4rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top {
+        box-shadow: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top {
+        display: block;
+        border-right: none;
+        padding-bottom: 3.6rem;
+        border-bottom: 1px solid #E1F1FF;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-features {
+        padding: 0 0.71rem 0 0.71rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-button {
+        display: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile {
+        padding: 0.71rem 0 0.71rem 0;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile > span:first-child {
+        font-weight: 700;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-mobile-button {
+        margin-top: 2.86rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-mobile-button .btn {
+        padding: 0.8rem 3.6rem 0.8rem 3.6rem;
+    }
+
+    .dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .dse-pricing .dse-pricing-top {
+        background: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-header-top {
+        background-color: #5578EB;
+        padding-bottom: 21.43rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-header-top .dse-pricing-title-top > h1 {
+        font-size: 1.8rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top {
+        width: 80%;
+        margin: 0 auto;
+        margin-top: -21.43rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top {
+        box-shadow: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top {
+        display: block;
+        border-right: none;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #E1F1FF;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-button {
+        display: none;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-features {
+        padding: 0 0.71rem 0 0.71rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile {
+        display: block;
+        margin: 2.14rem auto;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile {
+        padding: 0.71rem 0 0.71rem 0;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-top-item-mobile > span:first-child {
+        font-weight: 700;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-mobile-button {
+        margin-top: 2.86rem;
+    }
+
+    .dse-pricing .dse-pricing-top .dse-pricing-header-wrapper.dse-pricing-header-wrapper-fixed .dse-pricing-body-top .dse-pricing-items-top .dse-pricing-item-top .dse-pricing-top-items-mobile .dse-pricing-mobile-button .btn {
+        padding: 0.8rem 3.6rem 0.8rem 3.6rem;
+    }
+
+    .dse-pricing .dse-pricing-bttom .dse-pricing-bottom-wrapper.dse-pricing-bottom-wrapper-fixed {
+        display: none;
+    }
+}
+
+.btn-info {
+    color: #FFFFFF;
+    background-color: #5578EB;
+    border-color: #5578EB;
+    color: #FFFFFF;
+}
+
+.btn-info:hover {
+    color: #FFFFFF;
+    background-color: #335DE7;
+    border-color: #2754E6;
+}
+
+.btn-info:focus {
+    box-shadow: 0 0 0 0.2rem rgba(111, 140, 238, 0.5);
+}
+
+.btn.btn-pill {
+    border-radius: 2rem;
+}
+
+.btn.btn-upper {
+    text-transform: uppercase;
+}
+
+.btn.btn-bold {
+    font-weight: 600;
+}
+
+
+.dse-font-light h1 {
+    color: #FFFFFF !important;
+}
+
+.dse-font-info {
+    color: #5578EB !important;
+}
