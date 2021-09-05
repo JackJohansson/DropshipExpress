@@ -27,7 +27,7 @@ Automate every task and focus on improving your store instead. Our plugin will a
 Please notice, this is the initial release of the plugin. Many features such as price ranges, browser extension, etc. will be implemented shortly, based on users’ demand and priority. Please let us know if you have any idea to improve our product.
 
 ## Live Demo
-To view a demo version of the plugin, please follow [this link](https://dexpert.cydbytes.com). Use “demo” as both username and password.
+To view a demo version of the plugin, please follow [this link](https://adfw.cetusoft.com). Use “demo” as both username and password.
 
 ## Retailer Support
 Currently, our product supports AliExpress only. We have decided to launch our initial release using a single retailer, and add the rest of the stores shortly after based on users’ feedbacks and demands. The following stores are planned to be added:
