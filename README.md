@@ -52,7 +52,7 @@ Please note that stores in the above list might change or be removed altogether.
 - PHP version 7.0+
 
 ## Support
-We provide online documentation and knowledgebase at [support.cydbytes.com](https://support.cydbytes.com).
+We provide online documentation and knowledgebase at [support.cetusoft.com](https://support.cetusoft.com).
 
 ## Installation
 To install the plugin, please follow this instruction.
@@ -68,7 +68,7 @@ The free version of our product gives you access to unlimited manual imports. Yo
 ### Do I get any support?
 Users on the free version can open a ticket on the plugin's page, at wordpress.org. Upgraded members can contact the team via our website for priority support.
 ### How to access every feature?
-Please visit our [online documentation](https://support.cydbytes.com) for more informations.
+Please visit our [online documentation](https://support.cetusoft.com) for more informations.
 
 ## Changelog
 
